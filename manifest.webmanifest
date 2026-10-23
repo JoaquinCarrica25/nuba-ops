@@ -1,0 +1,17 @@
+{
+  "name": "Nuba Ops",
+  "short_name": "Nuba",
+  "description": "Prevención e incidencias de los apartamentos Nuba",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F4F6FA",
+  "theme_color": "#0F2A44",
+  "lang": "es",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
